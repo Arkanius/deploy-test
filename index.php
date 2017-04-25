@@ -1,3 +1,3 @@
 <?php
 
-echo 'test-deploy';
+echo 'test-deploy2';
